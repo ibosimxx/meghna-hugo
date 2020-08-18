@@ -4,10 +4,10 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: titulo
 - type: text
   name: image
-  label: image
+  label: imagen
 - type: text
   name: email
   label: email
@@ -17,7 +17,7 @@ fields:
   fields:
   - type: text
     name: icon
-    label: icon
+    label: icono
   - type: text
     name: link
-    label: link
+    label: enlace
