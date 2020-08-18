@@ -8,9 +8,9 @@ title = "Ibosim"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
+home = "Inicio"
+languageCode = "Es"
+languageName = "Es"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
