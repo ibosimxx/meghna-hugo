@@ -1,6 +1,6 @@
 ---
 title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+date: 2020-08-18T00:00:00+02:00
 image_webp: "/images/ibosim3_1.jpg"
 image: "/images/ibosim3_1.jpg"
 author: Serafin
