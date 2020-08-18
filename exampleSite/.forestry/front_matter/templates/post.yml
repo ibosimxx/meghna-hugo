@@ -4,21 +4,24 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: titulo
 - type: datetime
   name: date
-  label: date
+  label: fecha
+  config:
+    date_format: DD/MM/YYYY
+    export_format: DD/MM/YYYY h:mm A ZZ
 - type: text
   name: author
-  label: author
-  description: 'Ex: John Doe'
+  label: autor
+  description: Ibosim
 - type: file
   name: image_webp
-  label: image webp
+  label: imagen webp
 - type: file
   name: image
-  label: image
+  label: imagen
 - type: text
   name: description
-  label: description
+  label: descripcion
   description: meta description
