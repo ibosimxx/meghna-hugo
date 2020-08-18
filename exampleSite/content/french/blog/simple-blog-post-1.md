@@ -1,5 +1,5 @@
 ---
-title: Simple Blog Post
+title: Club IBOSIM
 date: 2020-08-18T00:00:00+02:00
 image_webp: "/images/ibosim3_1.jpg"
 image: "/images/ibosim3_1.jpg"
@@ -7,7 +7,7 @@ author: Serafin
 description: Club Ibosim Linux
 
 ---
-[Download File]( "Download File")El **Club Ibosim** lo formamos un grupo de amigos que compartimos una afición común: _la informática y las comunicaciones a través del ordenador_.
+El **Club Ibosim** lo formamos un grupo de amigos que compartimos una afición común: _la informática y las comunicaciones a través del ordenador_.
 
 Pese a su corta historia como Asociación -se fundó a finales de 1999-, el núcleo del club se gestó en las antiguas BBS y en una red de comunicaciones amateur: FIDONET, allá por el año 1991. Desde entonces venimos compartiendo experiencias, alegrías, problemillas, pero todo con una gran camaradería y procurando sobre todo divertirnos.
 
