@@ -8,6 +8,13 @@ sections:
   label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
+  label: Entradas
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: exampleSite/content/english/blog
   label: Post (en)
   create: documents
   match: "**/*"
@@ -23,6 +30,13 @@ sections:
   - post
 - type: heading
   label: Author
+- type: directory
+  path: exampleSite/content/english/author
+  label: Autor
+  create: documents
+  match: "**/*"
+  templates:
+  - author
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
@@ -41,7 +55,7 @@ sections:
   label: Data
 - type: directory
   path: exampleSite/data
-  label: Homepage
+  label: Portada
   create: all
   match: "**/*"
 - type: directory
@@ -50,10 +64,10 @@ sections:
   create: documents
   match: "**/*"
 - type: heading
-  label: Configuration
+  label: Configuracion
 - type: directory
   path: exampleSite
-  label: Configuration
+  label: Configuracion
   create: all
   match: "*.toml"
   new_doc_ext: toml
