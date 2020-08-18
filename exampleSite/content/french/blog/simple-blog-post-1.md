@@ -1,6 +1,6 @@
 ---
-title: Club IBOSIM
-date: 2020-08-18T00:00:00+02:00
+title: Club Ibosim
+date: 18/08/2020 12:00 AM +0200
 image_webp: "/images/ibosim3_1.jpg"
 image: "/images/ibosim3_1.jpg"
 author: Serafin
