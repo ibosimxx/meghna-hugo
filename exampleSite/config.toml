@@ -29,11 +29,11 @@ name = "blog"
 weight = 6
 [[menu.main]]
 URL = "pricing"
-name = "pricing"
+name = "Precio"
 weight = 5
 [[menu.main]]
 URL = "team"
-name = "team"
+name = "Equipo"
 weight = 4
 [[menu.main]]
 URL = "portfolio"
@@ -41,7 +41,7 @@ name = "portfolio"
 weight = 3
 [[menu.main]]
 URL = "services"
-name = "services"
+name = "servicios"
 weight = 2
 [[menu.main]]
 URL = "about"
