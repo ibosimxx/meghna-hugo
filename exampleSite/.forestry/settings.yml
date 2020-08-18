@@ -8,13 +8,6 @@ sections:
   label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
-  label: Entradas
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/english/blog
   label: Post (en)
   create: documents
   match: "**/*"
@@ -30,13 +23,6 @@ sections:
   - post
 - type: heading
   label: Author
-- type: directory
-  path: exampleSite/content/english/author
-  label: Autor
-  create: documents
-  match: "**/*"
-  templates:
-  - author
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
