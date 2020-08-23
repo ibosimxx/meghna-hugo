@@ -1,4 +1,4 @@
-baseURL = "https://ibosim.netlify.com"
+baseURL = "https://ibosim.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
