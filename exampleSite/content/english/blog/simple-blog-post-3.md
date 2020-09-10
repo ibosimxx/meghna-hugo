@@ -1,9 +1,9 @@
 ---
 title: Club Ibosim
-date: 09/09/2020 12:00 AM +0200
+date: 
 image_webp: "/images/cropped-cropped-cloudyday_1600x1200.webp"
 image: "/images/ibosim3_1.jpg"
-author: ''
+author: ibosim
 description: Distribucion de Linux configuada por Club Ibosim
 
 ---
