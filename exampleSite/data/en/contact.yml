@@ -18,7 +18,7 @@ contact:
   contact_form:
     enable: true
     form_action: "https://formspree.io/xlepkavy"
-    method="POST"
+    method: "POST"
     name: Tu nombre
     email: Tu  Email
     subject: Asunto
