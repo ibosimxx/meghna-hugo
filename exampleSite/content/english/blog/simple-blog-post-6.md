@@ -1,5 +1,5 @@
 ---
-title: Simple Blog Post
+title: Entrada de Blog
 date: 10/09/2020 12:00 AM +0200
 image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
