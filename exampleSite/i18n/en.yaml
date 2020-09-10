@@ -16,13 +16,13 @@
 - id: about
   translation: Acerca de
 - id: services
-  translation: Service
+  translation: Servicios
 - id: portfolio
   translation: Portfolio
 - id: team
-  translation: Team
+  translation: Equipo
 - id: pricing
-  translation: Pricing
+  translation: Precios
 - id: blog
   translation: Blog
 - id: contact
