@@ -4,7 +4,7 @@ date:
 image_webp: "/images/cropped-cropped-cloudyday_1600x1200.webp"
 image: "/images/ibosim3_1.jpg"
 author: ibosim
-description: Distribucion de Linux configuada por Club Ibosim
+description: Distribucion de Linux configurada por Club Ibosim
 
 ---
 El **Club Ibosim** lo formamos un grupo de amigos que compartimos una afición común: _la informática y las comunicaciones a través del ordenador_.
