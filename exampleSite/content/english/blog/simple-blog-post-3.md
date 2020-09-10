@@ -1,18 +1,18 @@
 ---
 title: Club Ibosim
 date: 09/09/2020 12:00 AM +0200
-image_webp: images/blog/blog-post-1.webp
+image_webp: "/images/cropped-cropped-cloudyday_1600x1200.webp"
 image: "/images/ibosim3_1.jpg"
 author: ''
 description: Distribucion de Linux configuada por Club Ibosim
 
 ---
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+El **Club Ibosim** lo formamos un grupo de amigos que compartimos una afición común: _la informática y las comunicaciones a través del ordenador_.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Pese a su corta historia como Asociación -se fundó a finales de 1999-, el núcleo del club se gestó en las antiguas BBS ( IBOSIM BBS, MANGO BBS, etc) y en una red de comunicaciones amateur: FIDONET, allá por el año 1991. Desde entonces venimos compartiendo experiencias, alegrías, problemillas, pero todo con una gran camaradería y procurando sobre todo divertirnos.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+![](/images/ibosim.gif "ibosim BBS")
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Entre las actividades que hemos  ido desarrollando se encuentran la colaboración en los Campus Virtuales (I, II y III), **reuniones semanales, muy animadas, los sábados por la tarde a partir de las 20h en Sant Antoni, Eivissa**. Suelen acabar de madrugada, y, _por supuesto, estais invitados a asistir_.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+![](/images/photo_2017-01-28_19-58-34.jpg)
