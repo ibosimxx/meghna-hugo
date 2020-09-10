@@ -1,6 +1,5 @@
 +++
-draft = true
-email = "email2@example.org"
+email = "serafin@clubibosim.org"
 image = ""
 title = "Ibosim"
 [[social]]
