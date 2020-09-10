@@ -1,8 +1,14 @@
 ---
 team:
   enable: true
-  title: Nuestro equipo
+  title: Nuestros amigos
   team_member:
+  - name: Joan Tur
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Abul Mal Muhit
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
