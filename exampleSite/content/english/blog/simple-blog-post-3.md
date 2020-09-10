@@ -1,6 +1,6 @@
 ---
-title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+title: Club Ibosim
+date: 09/09/2020 12:00 AM +0200
 image_webp: images/blog/blog-post-1.webp
 image: "/images/ibosim3_1.jpg"
 author: ''
