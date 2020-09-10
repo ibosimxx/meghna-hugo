@@ -17,7 +17,7 @@ contact:
     info: 'Email: hello@meghna.com'
   contact_form:
     enable: true
-    form_action: "https://formspree.io/xlepkavy"
+    action: "https://formspree.io/xlepkavy"
     method: "POST"
     name: Tu nombre
     email: Tu  Email
